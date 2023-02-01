@@ -5,8 +5,7 @@
 
 💻 Em busca do meu primeiro emprego na área de QA
 
-💬 Metodologia ágil: SCRUM
-
+💬 Metodologia ágil: SCRUM<br /> 
 💬 Ferramentas: Jira, VSCode, IntelliJ
 
 
